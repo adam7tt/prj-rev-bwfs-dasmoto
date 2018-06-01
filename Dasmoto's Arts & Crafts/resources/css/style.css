@@ -7,12 +7,12 @@
 .paint{
   background-color: skyblue;
 }
-html{
-  font-family: "Helvetica";
-}
-span, .price {
+.price {
   font-weight:bold;
   color:blue;
+}
+html{
+  font-family: "Helvetica";
 }
 h1{
   font-size: 100px;
